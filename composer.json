@@ -4,7 +4,6 @@
   "description" : "Samba client for Symfony2",
   "keywords" : [
     "samba",
-    "samba-client"
   ],
   "homepage" : "http://github.com/isklv/smb-bundle",
   "license" : "MIT",
