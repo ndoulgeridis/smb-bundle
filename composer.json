@@ -1,0 +1,30 @@
+{
+  "name" : "isklv/smb-bundle",
+  "type" : "symfony-bundle",
+  "description" : "Samba client for Symfony2",
+  "keywords" : [
+    "samba",
+  ],
+  "homepage" : "http://github.com/isklv/smb-bundle",
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name" : "Igor Sokolov",
+      "email" : "info@garyk.ru",
+      "homepage" : "https://garyk.ru"
+    }
+  ],
+  "require" : {
+    "php" : ">=5.3",
+    "symfony/framework-bundle" : "~2",
+  },
+  "autoload" : {
+    "psr-0" : {
+      "SMBBundle" : ""
+    }
+  },
+  "config" : {
+    "bin-dir" : "bin"
+  },
+  "target-dir" : "SMBBundle"
+}

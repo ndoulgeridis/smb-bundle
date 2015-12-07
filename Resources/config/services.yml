@@ -1,0 +1,5 @@
+services:
+
+    smb.server:
+        class: SMBBundle\SMB\Server
+        arguments: [ '@service_container' ]
