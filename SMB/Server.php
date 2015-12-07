@@ -67,7 +67,7 @@ class Server {
 	{
 	    $this->host = $host;
 	    list($workgroup, $user) = $this->splitUser($user);
-	    $this->user = $this->container->getParameter('smb.user');
+	    $this->user = $user;
 	    $this->workgroup = $workgroup;
 	    $this->password = $password;
 	}
