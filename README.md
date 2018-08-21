@@ -1,3 +1,7 @@
+# This is just a fork of https://github.com/isklv/smb-bundle to be compatible with Symfony 3+.
+
+
+
 SMB-Bundle
 ===
 
