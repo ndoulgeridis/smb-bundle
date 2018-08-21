@@ -19,7 +19,7 @@
     "symfony/framework-bundle" : "~3"
   },
   "autoload" : {
-    "psr-0" : {
+    "psr-4" : {
       "SMBBundle" : ""
     }
   },
