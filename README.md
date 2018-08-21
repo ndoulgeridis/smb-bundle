@@ -19,7 +19,7 @@ PHP wrapper for `smbclient` and [`libsmbclient-php`](https://github.com/eduardok
 
     ```json
     "require": {
-        "isklv/smb-bundle":"dev-master"
+        "ndoulgeridis/smb-bundle":"dev-master"
     }
     ```
 
