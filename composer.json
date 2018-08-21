@@ -1,17 +1,17 @@
 {
-  "name" : "isklv/smb-bundle",
+  "name" : "ndoulgeridis/smb-bundle",
   "type" : "symfony-bundle",
-  "description" : "Samba client for Symfony2",
+  "description" : "Samba client for Symfony3",
   "keywords" : [
     "samba"
   ],
-  "homepage" : "http://github.com/isklv/smb-bundle",
+  "homepage" : "http://github.com/ndoulgeridis/smb-bundle",
   "license" : "MIT",
   "authors" : [
     {
-      "name" : "Igor Sokolov",
-      "email" : "info@garyk.ru",
-      "homepage" : "https://garyk.ru"
+      "name" : "Nikolaos Doulgeridis",
+      "email" : "nickdoulgeridis@gmail.com",
+      "homepage" : "http://www.nickdoulgeridis.com"
     }
   ],
   "require" : {
